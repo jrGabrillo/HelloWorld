@@ -1,0 +1,10 @@
+creating a simple app using reactjs
+1. intro to reactjs
+	a. what is reactjs
+	b. why reactjs
+2. simple Hello world app
+3. app with user interaction using framework7
+4. building an app using phonegap
+5. app with storage(local storage and sqlite)
+6. app with plugin (map, vibration, sound, geolocation)
+7. deploying the app in google app store (optional)
